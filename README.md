@@ -1,6 +1,8 @@
 # Miner-Loop-Script
 Windows Miner (or Program) Loop Batch Script
 
+Target OS: Windows 7/8/10
+
 This Simple Loop Script is mainly used for CPU/GPU Miners that throw invalids after a certain amount of time.
 
 Details of this Script:
